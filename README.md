@@ -2,7 +2,7 @@
 
 **Learning AI agents by building practical tools.**
 
-你好，我是 Andrewz（DellucZ）。目前主要关注 **AI Agent 的学习与应用实践**：从小型可运行的例子出发，理解模型如何调用工具、利用执行反馈，以及完成一个具体任务。
+你好，我是 Andrewz。目前主要关注 **AI Agent 的学习与应用实践**：从小型可运行的例子出发，理解模型如何调用工具、利用执行反馈，以及完成一个具体任务。
 
 ## 当前关注 · Current focus
 
